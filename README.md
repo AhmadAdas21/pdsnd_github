@@ -1,17 +1,13 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Projects Summary
+Project 1: Investigate a Database
 
-### Date created
-Include the date you created this project and README file.
+Used SQL to analyze a movie rentals database.
+Created visualizations and a 4-slide presentation to share insights.
+Project 2: US Bikeshare Data Analysis
 
-### Project Title
-Replace the Project Title
+Built a Python program to analyze bikeshare data for 3 cities.
+Added features for filtering, statistics, and viewing raw data.
+Project 3: GitHub Workflow
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Refactored Project 2 using Git and GitHub.
+Documented tasks with Git commands.
